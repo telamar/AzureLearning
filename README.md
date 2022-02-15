@@ -2,7 +2,7 @@
 
 ## Agenda
 
-1) Management and resource groups [Doc](https://github.com/telamar/AzureLearning/docs/managementGroups.md)
+1) Management and resource groups [Doc](https://github.com/telamar/AzureLearning/blob/main/docs/managementGroups.md)
 
 2) Active directory
 
