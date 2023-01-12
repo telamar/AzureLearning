@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StorageQueue.Client", "StorageQueue.Client\StorageQueue.Client.csproj", "{9C5AD5E9-4AEE-4149-ABAA-03CB58C716D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{88BA4174-7806-4699-B76B-7ABAA2B5E0BD}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C5AD5E9-4AEE-4149-ABAA-03CB58C716D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C5AD5E9-4AEE-4149-ABAA-03CB58C716D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C5AD5E9-4AEE-4149-ABAA-03CB58C716D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C5AD5E9-4AEE-4149-ABAA-03CB58C716D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {869ABE58-ABE5-4CB6-A83B-E43918FF76F5}
+	EndGlobalSection
+EndGlobal
