@@ -1,7 +1,9 @@
 # Azure Commands
 
 myLocation=northeurope
+
 myResourceGroup=az204-strgqueue-rg
+
 myStorageAccount=az204strgqueueacc
 
 az group create --name $myResourceGroup --location $myLocation

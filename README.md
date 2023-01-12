@@ -5,3 +5,8 @@
 
 2) ServiceBus
 [Practice](https://github.com/telamar/AzureLearning/blob/main/src/ServiceBus)
+[Doc](https://github.com/telamar/AzureLearning/blob/main/docs/AZ-204_Messaging.pdf)
+
+3) StorageQueue
+[Practice](https://github.com/telamar/AzureLearning/blob/main/src/StorageQueue)
+[Doc](https://github.com/telamar/AzureLearning/blob/main/docs/AZ-204_Messaging.pdf)
