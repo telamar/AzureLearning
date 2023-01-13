@@ -10,3 +10,6 @@
 3) StorageQueue
 [Practice](https://github.com/telamar/AzureLearning/blob/main/src/StorageQueue)
 [Doc](https://github.com/telamar/AzureLearning/blob/main/docs/AZ-204_Messaging.pdf)
+
+4) Functions
+[Practise](https://github.com/telamar/AzureLearning/blob/main/src/Functions)
