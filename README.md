@@ -13,7 +13,7 @@
 
 4) Functions
 [Practise](https://github.com/telamar/AzureLearning/blob/main/src/Functions)
-[Doc](https://github.com/telamar/AzureLearning/blob/main/docs/AZ-204_Functions.pdf)
+[Doc](https://github.com/telamar/AzureLearning/blob/main/docs/az-204_Functions.pdf)
 
 5) Durable functions
-[Doc](https://github.com/telamar/AzureLearning/blob/main/docs/AZ-204_Functions.pdf)
+[Doc](https://github.com/telamar/AzureLearning/blob/main/docs/az-204_Functions.pdf)
