@@ -36,7 +36,7 @@ namespace Functions
 
 			stringBuilder.AppendLine("</ul>");
 
-            return stringBuilder.ToString();
+			return stringBuilder.ToString();
 		}
 	}
 }
