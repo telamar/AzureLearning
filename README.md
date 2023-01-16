@@ -13,3 +13,6 @@
 
 4) Functions
 [Practise](https://github.com/telamar/AzureLearning/blob/main/src/Functions)
+
+5) App Insights
+[Doc](https://github.com/telamar/AzureLearning/blob/main/docs/AZ-204_Monitoring_Logging.pdf)
