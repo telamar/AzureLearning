@@ -11,3 +11,5 @@ az group create --name $myResourceGroup --location $myLocation
 az storage account create --name $myStorageAccount  --resource-group $myResourceGroup
 
 az group delete --name $myResourceGroup --no-wait
+
+## Hello
